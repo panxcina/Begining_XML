@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<document>
+  <!--There are a couple of problems with this document.-->
+  <Information>This document
+  contains some <bold>information</bold>. Once
+  it's corrected, it can be read by a parser.</Information>
+</document>

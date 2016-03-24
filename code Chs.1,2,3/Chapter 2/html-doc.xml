@@ -1,0 +1,21 @@
+﻿<HTML-Doc>
+  <tag>
+    <tag-name>p</tag-name>
+    <description>Paragraph</description>
+    <example><![CDATA[
+<p>Paragraphs can contain <em>other</em> tags.</p>
+]]></example>
+  </tag>
+  <tag>
+    <tag-name>html</tag-name>
+    <description>HTML root element</description>
+    <example><![CDATA[
+<html>
+<head><title>Sample HTML</title></head>
+<body>
+<p>Stuff goes here</p
+</body>/html>
+]]></example>
+  </tag>
+  <!--more tags to follow...-->
+</HTML-Doc>

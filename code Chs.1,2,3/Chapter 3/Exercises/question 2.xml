@@ -1,0 +1,10 @@
+﻿<emp:employee xmlns:emp="http://www.wiley.com/employee"
+              xmlns:pers="http://www.wiley.com/pers"
+              pers:id="x125">
+  <emp:name>Jane Doe</emp:name>
+  <emp:notes>
+    <p xmlns="http://www.w3.org/1999/xhtml">I’ve worked
+    with <emp:name pers:id="x125">Jane Doe</emp:name>
+    for over a <em>year</em> now.</p>
+  </emp:notes>
+</emp:employee>

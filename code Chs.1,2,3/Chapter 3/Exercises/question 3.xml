@@ -1,0 +1,10 @@
+﻿<emp:employee xmlns:emp="http://www.wiley.com/employee"
+              xmlns:pers="http://www.wiley.com/pers"
+              pers:id="x393">
+  <emp:name>Alfred Neuman</emp:name>
+  <emp:notes>
+    <p xmlns="http://www.w3.org/1999/xhtml">Alfred has worked
+    with <emp:name pers:id="x125">Jane Doe</emp:name> in the
+    past, and she has had nothing but good to say about him.</p>
+  </emp:notes>
+</emp:employee>
